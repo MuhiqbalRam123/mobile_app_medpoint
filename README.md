@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mob_medpoint
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# mobile_app_medpoint
+>>>>>>> 7bea4ce7dae2cdee4c3c37b43648cb26eed3465a
